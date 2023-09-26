@@ -1,0 +1,93 @@
+.h1 {
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  color: #1c1e21;
+}
+.img {
+  justify-content: center;
+  width: 350px;
+  height: auto;
+  position: relative;
+  text-align: center;
+}
+.main_img_div {
+  justify-content: center;
+  text-align: center;
+  margin: 0px;
+}
+
+.h4 {
+  position: relative;
+  justify-items: center;
+  text-align: center;
+  margin: 0px 10px 20px 20px;
+  padding: 20px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_div {
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 0% 20% 20% 30%;
+  position: relative;
+  border: none;
+  border-radius: 10px;
+  border-width: 2px;
+  width: 40%;
+}
+
+.hr {
+  margin: 10px 10px 10px 10px;
+}
+a {
+  color: #1877f2;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+.input-username {
+  margin: 0px 0px 10px 0px;
+  text-justify: auto;
+  width: 90%;
+  justify-items: center;
+  height: 40px;
+  border-radius: 6px;
+  font-size: medium;
+  border-color: aliceblue;
+}
+.input-password {
+  text-justify: auto;
+  margin: 0px 0px 10px 0px;
+  width: 90%;
+  justify-items: center;
+  height: 40px;
+  border-radius: 6px;
+  font-size: medium;
+  border-color: aliceblue;
+}
+
+.btn {
+  margin: 5px 5px 10px 10px;
+  background-color: #1877f2;
+  border-radius: 10px;
+  border: none;
+  height: 50px;
+  width: 90%;
+  color: aliceblue;
+  cursor: pointer;
+  font-size: large;
+  font-weight: bold;
+}
+.btn_submit {
+  margin: 5px 5px 10px 10px;
+  background-color: #42b72a;
+  border-radius: 10px;
+  border: none;
+  height: 50px;
+  width: 60%;
+  font-size: large;
+  cursor: pointer;
+  color: aliceblue;
+}
